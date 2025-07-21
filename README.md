@@ -43,7 +43,6 @@ Se quiser trocar uma ideia, tirar uma dúvida ou conversar sobre alguma oportuni
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
 
 <h3>⚙️ &nbsp;Back-end & banco de dados:</h3>
