@@ -59,4 +59,4 @@ Se quiser trocar uma ideia, tirar uma dúvida ou conversar sobre alguma oportuni
 
 <h2>🚀 &nbsp;Meus stats no GitHub</h2>
 
-![Diego Martins GitHub Stats](https://github-readme-stats.vercel.app/api?username=DGTJS&show_icons=true&theme=radical)
+![Diego Martins GitHub Stats](https://github-readme-stats.vercel.app/api?username=DGTJS&show_icons=true&theme=dark)
