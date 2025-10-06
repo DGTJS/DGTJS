@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diego-martins7/"><img src="https://img.shields.io/badge/-Meu%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<!--  <a href="https://instagram.com/seu-instagram"><img src="https://img.shields.io/badge/-Instagram%20Profissional-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> -->
+  <!--  <a href="https://instagram.com/seu-instagram"><img src="https://img.shields.io/badge/-Instagram%20Profissional-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> -->
   <a href="mailto:joaodiegom21@gmail.com"><img src="https://img.shields.io/badge/-joaodiegom21@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://diego-martins.vercel.app"><img src="https://img.shields.io/badge/-Meu%20Portfólio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
@@ -10,6 +10,8 @@
 <h2> 👨🏻‍💻 &nbsp;Sobre mim</h2>
 
 Sou **Desenvolvedor Full Stack**, criando aplicações web e mobile com foco em performance, escalabilidade e ótima experiência de usuário.
+
+Atualmente, curso **Análise e Desenvolvimento de Sistemas (ADS)**, aprimorando ainda mais minhas habilidades técnicas e ampliando minha base sólida em arquitetura de software, banco de dados e boas práticas de desenvolvimento.
 
 Minha stack principal inclui **TypeScript, React, Next.js, Node.js, Flutter, PostgreSQL e MongoDB**. Já atuei em diversos projetos como PJ, ajudando startups e empresas a tirarem ideias do papel com soluções modernas e bem arquitetadas.
 
