@@ -27,11 +27,11 @@ Quando não estou programando, estou estudando novas tecnologias, otimizando int
 
 Este portfólio e repositório são uma extensão do meu trabalho e visão como desenvolvedor. Aqui você vai encontrar:
 
-- Projetos reais com foco em resultado e usabilidade  
-- Código limpo, modular e baseado em boas práticas  
-- Arquitetura escalável e integração com APIs REST  
-- Interfaces otimizadas com SSR, SSG e mobile first  
-- Testes automatizados e documentação organizada  
+- Projetos reais com foco em resultado e usabilidade
+- Código limpo, modular e baseado em boas práticas
+- Arquitetura escalável e integração com APIs REST
+- Interfaces otimizadas com SSR, SSG e mobile first
+- Testes automatizados e documentação organizada
 
 Se quiser trocar uma ideia, tirar uma dúvida ou conversar sobre alguma oportunidade, fique à vontade para me chamar por e-mail ou <a href="https://www.linkedin.com/in/diego-martins7/">no LinkedIn</a>!
 
@@ -61,4 +61,6 @@ Se quiser trocar uma ideia, tirar uma dúvida ou conversar sobre alguma oportuni
 
 <h2>🚀 &nbsp;Meus stats no GitHub</h2>
 
-![Diego Martins GitHub Stats](https://github-readme-stats.vercel.app/api?username=DGTJS&show_icons=true&theme=radical)
+![Diego Martins GitHub Stats](https://github-readme-stats.vercel.app/api?username=DGTJS&show_icons=true&theme=radical&hide_border=true&cache_seconds=3600)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGTJS&layout=compact&theme=radical&hide_border=true&cache_seconds=3600)
