@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou Diego Martins — Desenvolvedor Full Stack apaixonado por tecnologia!</h1>
+<h1>👋 &nbsp;Olá, eu sou Diego Martins — Desenvolvedor Front-end apaixonado por tecnologia!</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diego-martins7/"><img src="https://img.shields.io/badge/-Meu%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -9,7 +9,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;Sobre mim</h2>
 
-Sou **Desenvolvedor Full Stack**, criando aplicações web e mobile com foco em performance, escalabilidade e ótima experiência de usuário.
+Sou **Desenvolvedor Front-end**, criando aplicações web e mobile com foco em performance, escalabilidade e ótima experiência de usuário.
 
 Atualmente, curso **Análise e Desenvolvimento de Sistemas (ADS)**, aprimorando ainda mais minhas habilidades técnicas e ampliando minha base sólida em arquitetura de software, banco de dados e boas práticas de desenvolvimento.
 
